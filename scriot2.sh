@@ -1,6 +1,6 @@
-sudo apt update
+#!/bin/bash
 
-sudo apt -y install curl gcc g++ git gnome-multi-writer gzip jupyter latte-dock libreoffice libsdl2-dev make neofetch python3 python3-nacl python3-pip python3-pymacaroons python3-tk python3-venv tree vim yakuake
+sudo apt update
 
 cp -r .vim ~/
 cp .vimrc ~/
