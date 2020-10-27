@@ -10,5 +10,5 @@ function prompt_reboot()
 
 function update_ubuntu()
 {
-    
+    sudo apt update
 }
