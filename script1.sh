@@ -6,3 +6,11 @@
 set -e # Exit if there are any errors
 
 # define some functions
+
+function prompt_reboot()
+{
+    echo "$0 has finised running"
+    echo "It is strongly recommended that you reboot now."
+}
+
+prompt_reboot()
