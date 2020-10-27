@@ -13,4 +13,4 @@ function prompt_reboot()
     echo "It is strongly recommended that you reboot now."
 }
 
-prompt_reboot()
+prompt_reboot
