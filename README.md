@@ -3,3 +3,5 @@ Set up the Kubuntu operating system with my desired packages and some custom con
 Kurrently under development for 20.04
 
 Forked from https://github.com/m-squared96/ubuntu_install
+
+Archived because I don't have time right now...
